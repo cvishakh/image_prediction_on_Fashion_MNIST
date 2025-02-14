@@ -20,5 +20,5 @@ cd image_prediction_on_Fashion_MNIST
 pip install -r requirements.txt
 ---
 
-python app.py
+python GUI_inference.py
 
