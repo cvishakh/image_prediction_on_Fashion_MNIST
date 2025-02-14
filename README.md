@@ -6,7 +6,7 @@ A **GUI-based image classifier** trained on **Fashion MNIST**, using **TensorFlo
 - **Drag-and-Drop** images for real-time classification.  
 - **Displays the image** and **predicted class** instantly.  
 - **Lightweight TFLite model** for fast predictions.  
-- **Built with PyQt.  
+- **Built** with PyQt.  
 - **exe**: Convert to an executable file.
 
 ---
@@ -15,8 +15,8 @@ A **GUI-based image classifier** trained on **Fashion MNIST**, using **TensorFlo
 
 ### 1 Clone & Install Dependencies
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/cvishakh/image_prediction_on_Fashion_MNIST.git
+cd image_prediction_on_Fashion_MNIST
 pip install -r requirements.txt
 ---
 
