@@ -1,0 +1,9 @@
+tensorflow==2.13.0  # TensorFlow for training
+tensorflow-lite==2.13.0  # TensorFlow Lite for inference
+numpy==1.23.5  # Numerical operations
+Pillow==10.0.1  # Image processing
+PyQt5==5.15.9  # GUI framework (if using PyQt)
+PySide6==6.5.0  # Alternative GUI framework (if using PySide)
+opencv-python==4.8.0.76  # Image processing
+matplotlib==3.7.1  # For visualizing training results
+pyinstaller==5.13.0  # For packaging into an executable (optional)
