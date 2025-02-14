@@ -13,8 +13,12 @@ A **GUI-based image classifier** trained on **Fashion MNIST**, using **TensorFlo
 
 ## 🚀 Installation
 
-### 1️⃣ Clone & Install Dependencies
+### 1 Clone & Install Dependencies
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
+
+### 2 Clone & Install Dependencies
+```bash
+python app.py
