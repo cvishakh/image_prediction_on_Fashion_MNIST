@@ -6,8 +6,8 @@ A **GUI-based image classifier** trained on **Fashion MNIST**, using **TensorFlo
 - **Drag-and-Drop** images for real-time classification.  
 - **Displays the image** and **predicted class** instantly.  
 - **Lightweight TFLite model** for fast predictions.  
-- **Built with PyQt / Tkinter / PySide / Kivy** (mention your choice).  
-- **Optional**: Convert to an executable file.
+- **Built with PyQt.  
+- **exe**: Convert to an executable file.
 
 ---
 
